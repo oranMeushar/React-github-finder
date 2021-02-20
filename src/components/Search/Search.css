@@ -1,0 +1,36 @@
+.input-wrapper{
+    position: relative;
+}
+
+.Search button{
+    background-color: transparent;
+    border:none;
+    outline: none;
+    position: absolute;
+    width:3.5vmin;
+    height: 3.5vmin;
+    min-width: 1rem;
+    min-height: 1rem;
+    right: 2%;
+    top: 12%;
+}
+
+.Search img{
+    width:100%;
+    cursor: pointer;
+}
+.Search input{
+    width:60vmin;
+    height:5vmin;
+    min-height: 2rem;
+    min-width: 4rem;
+    border-radius: 1rem;
+    outline: none;
+    border-color: white;
+    box-shadow: inset 1px 1px 0.3rem black;
+    letter-spacing: 0.3vmin;
+}
+
+.Search input::placeholder{
+    padding-left: 1vmin;
+}

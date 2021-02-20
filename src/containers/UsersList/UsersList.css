@@ -1,0 +1,12 @@
+.UsersList{
+    width:100%;
+}
+.UsersList-list{
+    width:100%;
+    margin: 4vmin auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,30vmin);
+    grid-row-gap: 4vmin;
+    grid-column-gap: 4vmin;
+    justify-content:center;
+}

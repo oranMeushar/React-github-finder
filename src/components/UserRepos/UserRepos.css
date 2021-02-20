@@ -1,0 +1,24 @@
+.UserRepos li{
+    list-style-type: none;
+    padding:1vmin;
+    line-height:normal;
+    border:1px solid grey;
+    margin: 2vmin 0;
+    background-color:rgba(128, 128, 128, 0.171);
+
+}
+.UserRepos h1{
+    margin:4vmin 0;
+    width:fit-content;
+    padding-bottom: 1vmin;
+    border-bottom: 1px solid black;
+    color:rgb(44, 74, 92);
+
+}
+
+.UserRepos a{
+    text-decoration:none;
+    font-size: 4vmin;
+    color:blue;
+    
+}
